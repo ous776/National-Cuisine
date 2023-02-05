@@ -41,11 +41,6 @@
     transition: all 0.2s linear;
   }
 
-  .nav .openSearch .nav-links a {
-    opacity: 0;
-    pointer-events: none;
-  }
-
   .nav .logo {
     font-size: 22px;
     font-weight: 500px ;
@@ -59,18 +54,12 @@
 
   .nav .search-box {
     position: absolute;
-    right: 250px;
+    right: 520px;
     height: 45px;
-    max-width: 555px;
+    max-width: 400px;
     width: 100%;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.2s linear;
-  }
-
-  .nav .openSearch .search-box {
-    opacity: 1;
     pointer-events: auto;
+    transition: all 0.2s linear;
   }
 
   .search-box  .search-icon {
@@ -91,7 +80,7 @@
 
   }
 
-  .nav .navOpenBtn, .navCloseBtn {
+  .nav .navOpenBtn, .navCloseBtn, .search-icon {
     display: none;
   }
 
@@ -121,7 +110,7 @@
   
   @media screen and (max-width:768px) {
 
-    .nav .navOpenBtn, .nav .navCloseBtn {
+    .nav .navOpenBtn, .nav .navCloseBtn, .nav .search-icon{
         display: block;
     }
     .nav {
@@ -129,7 +118,7 @@
     }
 
     .nav .search-box {
-        right: 50px;
+        right: 250px;
         top: calc(100% + 10px);
         max-width: calc(100%-20px);
         transform: translate(50%);

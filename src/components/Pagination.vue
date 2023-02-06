@@ -56,10 +56,20 @@
 
 .pagination {
   list-style-type: none;
+  margin-bottom: 3
+  0px;
 }
 
 .pagination-item {
   display: inline-block;
+}
+
+.page-link {
+  padding: 5px 7px;
+  margin-left: 2px;
+  margin-right: 2px;
+  text-decoration: none;
+  border: solid 1px;
 }
 
 .active {

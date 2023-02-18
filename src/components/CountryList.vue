@@ -74,10 +74,13 @@ export default {
 
 .list {
   margin: 15px 30px;
-  border: solid 1px;
+  border: none;
   padding: 30px 100px;
   width: 680px;
   text-align: center;
+  background-color: #467A75;
+  border-radius: 5px;
+  color: #fff;
 }
 
 a {

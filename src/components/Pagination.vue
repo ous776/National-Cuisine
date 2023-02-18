@@ -69,7 +69,10 @@
   margin-left: 2px;
   margin-right: 2px;
   text-decoration: none;
-  border: solid 1px;
+  border: none;
+  background-color: #467A75;
+  border-radius: 4px;
+  color: #fff;
 }
 
 .active {

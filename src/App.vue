@@ -3,6 +3,8 @@
 <template>
   <Header />
  <CountryList/>
+ <br><br>
+
  <Footer/>
 
  

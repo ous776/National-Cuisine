@@ -12,6 +12,7 @@
   <div class="container">
     <div v-for="country in getPaginatedData()" :key="country">
       <p class="list">{{ country.country }}</p>
+      <Foodlist/>
     </div>
   </div>
 
@@ -27,12 +28,14 @@
 <script>
 import countries from "../countries.json";
 import Pagination from "./Pagination.vue";
+import Foodlist from "./Foodlist.vue";
 
 export default {
   name: "CountryList",
 
   components: {
     Pagination,
+    Foodlist
   },
 
   data() {
@@ -73,13 +76,14 @@ export default {
 }
 
 .list {
-  margin: 15px 30px;
+  /* margin: 15px 30px; */
+  margin: 15px 30px 0 51px;
   border: none;
   padding: 30px 100px;
   width: 680px;
   text-align: center;
   background-color: #467A75;
-  border-radius: 5px;
+  border-radius: 6px 6px 0 0;
   color: #fff;
 }
 

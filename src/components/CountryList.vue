@@ -1,18 +1,25 @@
 <template>
   <div class="header">
-  <h1>Discovering the Top 3 National Cuisines</h1>
-  <p>
-    This website is dedicated to showcasing the culinary diversity of countries
-    around the world. It highlights the three most famous national cuisines of
-    each country, offering a glimpse into the rich cultural heritage of each
-    region. Whether you are a foodie, a traveler, or simply someone who loves
-    trying new things, this website has something for everyone.
-  </p>
-</div>
+    <h1>Discovering the Top 3 National Cuisines</h1>
+    <p>
+      This website is dedicated to showcasing the culinary diversity of
+      countries around the world. It highlights the three most famous national
+      cuisines of each country, offering a glimpse into the rich cultural
+      heritage of each region. Whether you are a foodie, a traveler, or simply
+      someone who loves trying new things, this website has something for
+      everyone.
+    </p>
+  </div>
   <div class="container">
     <div v-for="country in getPaginatedData()" :key="country">
-      <p class="list">{{ country.country }}</p>
-      <Foodlist/>
+      <p class="list" @click="toggleFoodList(country)">{{ country.country }}</p>
+      <div class="foodlist" :class="{ show: country.showFoodList }">
+        <div class="food">
+          <ul>
+            <li v-for="value in country.cuisine" :key="value">{{ value }}</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -28,14 +35,12 @@
 <script>
 import countries from "../countries.json";
 import Pagination from "./Pagination.vue";
-import Foodlist from "./Foodlist.vue";
 
 export default {
   name: "CountryList",
 
   components: {
-    Pagination,
-    Foodlist
+    Pagination
   },
 
   data() {
@@ -60,6 +65,16 @@ export default {
       const end = start + this.perPage;
       return this.countries.slice(start, end);
     },
+
+    toggleFoodList(country) {
+      country.showFoodList = !country.showFoodList;
+
+      this.countries.forEach((c) => {
+        if (c !== country) {
+          c.showFoodList = false;
+        }
+      });
+    },
   },
 };
 </script>
@@ -77,14 +92,15 @@ export default {
 
 .list {
   /* margin: 15px 30px; */
-  margin: 15px 30px 0 51px;
+  margin: 15px 50px 0 51px;
   border: none;
   padding: 30px 100px;
   width: 680px;
   text-align: center;
-  background-color: #467A75;
+  background-color: #467a75;
   border-radius: 6px 6px 0 0;
   color: #fff;
+  cursor: pointer;
 }
 
 a {
@@ -93,5 +109,32 @@ a {
 .pagination {
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.foodlist {
+  display: none;
+}
+.foodlist.show {
+  display: block;
+}
+
+.food ul {
+  align-items: center;
+  display: flex;
+}
+
+.food ul li {
+  list-style: none;
+  display: inline;
+  margin-left: 51px;
+  margin-right: 43.5px;
+  background-color: #467a75;
+  color: #fff;
+  text-align: center;
+  padding: 12px 0;
+  border-top: 3px solid;
+  border-top-color: black;
+  border-radius: 0 0 6px 6px;
+  width:163.5px;
 }
 </style>

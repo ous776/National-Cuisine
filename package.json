@@ -15,7 +15,8 @@
     "@fortawesome/vue-fontawesome": "^3.0.3",
     "jw-vue-pagination": "^1.0.3",
     "paginationjs": "^2.5.0",
-    "vue": "^3.2.45"
+    "vue": "^3.2.45",
+    "vue-router": "^4.0.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",

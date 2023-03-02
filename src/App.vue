@@ -4,9 +4,9 @@
   <Header />
  <CountryList/>
  <br><br>
-
  <Footer/>
 
+ <!-- <router-view></router-view> -->
  
 </template>
 

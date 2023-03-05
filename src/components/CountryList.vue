@@ -1,4 +1,6 @@
 <template>
+  <Header />
+
   <div class="header">
     <h1>Discovering the Top 3 National Cuisines</h1>
     <p>
@@ -16,7 +18,13 @@
       <div class="foodlist" :class="{ show: country.showFoodList }">
         <div class="food">
           <ul>
-            <li v-for="value in country.cuisine" :key="value">{{ value }}</li>
+            <li
+              @click="toggleCuisine(country, value)"
+              v-for="value in country.cuisine"
+              :key="value"
+            >
+              {{ value }}
+            </li>
           </ul>
         </div>
       </div>
@@ -30,17 +38,24 @@
       @pagechanged="onPageChange"
     />
   </div>
+  <br />
+  <br />
+  <Footer />
 </template>
 
 <script>
 import countries from "../countries.json";
 import Pagination from "./Pagination.vue";
+import Header from "./Header.vue";
+import Footer from "./Footer.vue";
 
 export default {
   name: "CountryList",
 
   components: {
-    Pagination
+    Header,
+    Pagination,
+    Footer,
   },
 
   data() {
@@ -75,6 +90,18 @@ export default {
         }
       });
     },
+
+    toggleCuisine(country, cuisine) {
+      this.$router.push(`/${country.country}/${cuisine}`);
+
+      this.$router.push({
+        name: "cuisine-details",
+        params: {
+          country: country,
+          cuisine: cuisine,
+        },
+      });
+    },
   },
 };
 </script>
@@ -84,6 +111,7 @@ export default {
   margin-top: 100px;
   text-align: center;
 }
+
 .container {
   margin-top: 30px;
   display: grid;
@@ -106,6 +134,7 @@ export default {
 a {
   cursor: pointer;
 }
+
 .pagination {
   justify-content: center;
   flex-wrap: wrap;
@@ -114,6 +143,7 @@ a {
 .foodlist {
   display: none;
 }
+
 .foodlist.show {
   display: block;
 }
@@ -135,6 +165,6 @@ a {
   border-top: 3px solid;
   border-top-color: black;
   border-radius: 0 0 6px 6px;
-  width:163.5px;
+  width: 163.5px;
 }
 </style>

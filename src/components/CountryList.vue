@@ -19,11 +19,11 @@
         <div class="food">
           <ul>
             <li
-              @click="toggleCuisine(country, value)"
-              v-for="value in country.cuisine"
+              @click="toggleCuisine(country, key)"
+              v-for="(value, key) in country.cuisine"
               :key="value"
             >
-              {{ value }}
+              {{ key }}
             </li>
           </ul>
         </div>

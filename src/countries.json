@@ -1,1947 +1,1962 @@
-[
-        {
-            "country": "Afghanistan",
-            "cuisine": {
-                "one": "11",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Åland Islands",
-            "cuisine": {
-                "one": "12",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Albania",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Algeria",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "American Samoa",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "AndorrA",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Angola",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Anguilla",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Antarctica",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Antigua and Barbuda",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Argentina",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Armenia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Aruba",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Australia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Austria",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Azerbaijan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bahamas",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bahrain",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bangladesh",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Barbados",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Belarus",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Belgium",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Belize",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Benin",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bermuda",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bhutan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bolivia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bosnia and Herzegovina",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Botswana",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Bouvet Island",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Brazil",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "British Indian Ocean Territory",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Brunei Darussalam",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
+[{
+        "country": "Afghanistan",
+        "cuisine": {
+            "Kabuli palaw": {
+                "description": "Kabuli Palaw is a traditional Afghan dish that is known for its flavorful and aromatic combination of tender lamb, sweet carrots, and fragrant spices.",
+                "Ingredients": "2 cups Basmati rice/2 lbs lamb, cut into small pieces/3 cups water/1 large onion, sliced/2 garlic cloves, minced/1-inch ginger, grated/3-4 carrots, peeled and julienned/1 cup raisins/1 tsp cumin seeds/1 tsp coriander seeds/4-5 green cardamom pods/4-5 cloves/Salt and black pepper, to taste/4 tbsp vegetable oil/1 tbsp sugar",
+                "preparation": "Rinse the rice in cold water and soak it in water for at least 30 minutes./ Heat the oil in a large pot over medium-high heat. Add the onions and cook until softened, about 5 minutes./Add the garlic and ginger and cook for another 1-2 minutes./Add the meat and cook until browned on all sides, about 5-7 minutes./Add the cumin seeds, coriander seeds, green cardamom pods, cloves, salt, and pepper and stir well./Add 3 cups of water and bring the mixture to a boil./Reduce the heat to low, cover the pot, and let it simmer for about 1 hour, or until the meat is tender./In a separate pot, bring 4 cups of water to a boil. Add the rice and let it cook for 5-7 minutes, or until it is partially cooked./Drain the rice and set it aside./In a separate pan, heat some oil and add the julienned carrots. Cook for 5-7 minutes or until they begin to caramelize. Add the raisins and cook for an additional minute./Add the cooked carrots and raisins to the meat and stir well./Layer the partially cooked rice on top of the meat and vegetables./Dissolve the sugar in 1/2 cup of water and pour it over the rice./Cover the pot and let it cook on low heat for about 20-30 minutes, or until the rice is fully cooked and fluffy./Serve hot and enjoy your delicious Kabuli Palaw!"
+            },
 
-        },
-        {
-            "country": "Bulgaria",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Burkina Faso",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Burundi",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cambodia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cameroon",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Canada",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cape Verde",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cayman Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Central African Republic",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Chad",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Chile",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "China",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Christmas Island",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cocos (Keeling) Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Colombia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Comoros",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Congo",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Congo, The Democratic Republic of the",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cook Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Costa Rica",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cote D\"Ivoire",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Croatia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cuba",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Cyprus",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Czech Republic",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Denmark",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Djibouti",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Dominica",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Dominican Republic",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Ecuador",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Egypt",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "El Salvador",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Equatorial Guinea",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Eritrea",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Estonia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Ethiopia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Falkland Islands (Malvinas)",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Faroe Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Fiji",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Finland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "France",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "French Guiana",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "French Polynesia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "French Southern Territories",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Gabon",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Gambia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Georgia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Germany",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Ghana",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Gibraltar",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Greece",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Greenland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Grenada",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guadeloupe",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guam",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guatemala",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guernsey",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guinea",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guinea-Bissau",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Guyana",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Haiti",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Heard Island and Mcdonald Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Holy See (Vatican City State)",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Honduras",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Hong Kong",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Hungary",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Iceland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "India",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Indonesia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Iran, Islamic Republic Of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Iraq",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Ireland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Isle of Man",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Israel",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Italy",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Jamaica",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Japan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Jersey",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Jordan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Kazakhstan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Kenya",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Kiribati",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Korea, Democratic People\"S Republic of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Korea, Republic of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Kuwait",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Kyrgyzstan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Lao People\"S Democratic Republic",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Latvia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Lebanon",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Lesotho",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Liberia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Libyan Arab Jamahiriya",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Liechtenstein",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Lithuania",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Luxembourg",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Macao",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Macedonia, The Former Yugoslav Republic of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Madagascar",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Malawi",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Malaysia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Maldives",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mali",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Malta",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Marshall Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Martinique",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mauritania",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mauritius",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mayotte",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mexico",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Micronesia, Federated States of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Moldova, Republic of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Monaco",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mongolia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Montserrat",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Morocco",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Mozambique",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Myanmar",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Namibia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Nauru",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Nepal",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Netherlands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Netherlands Antilles",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "New Caledonia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "New Zealand",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Nicaragua",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Niger",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Nigeria",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Niue",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Norfolk Island",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Northern Mariana Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Norway",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Oman",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Pakistan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Palau",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Palestinian Territory, Occupied",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Panama",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Papua New Guinea",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Paraguay",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Peru",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Philippines",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Pitcairn",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Poland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Portugal",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Puerto Rico",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Qatar",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Reunion",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Romania",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Russian Federation",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "RWANDA",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Saint Helena",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Saint Kitts and Nevis",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Saint Lucia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Saint Pierre and Miquelon",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Saint Vincent and the Grenadines",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Samoa",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "San Marino",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Sao Tome and Principe",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Saudi Arabia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Senegal",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Serbia and Montenegro",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Seychelles",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Sierra Leone",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Singapore",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Slovakia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Slovenia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Solomon Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Somalia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "South Africa",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "South Georgia and the South Sandwich Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Spain",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Sri Lanka",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Sudan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Suriname",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Svalbard and Jan Mayen",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Swaziland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Sweden",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Switzerland",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Syrian Arab Republic",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Taiwan, Province of China",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Tajikistan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Tanzania, United Republic of",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Thailand",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Timor-Leste",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Togo",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Tokelau",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Tonga",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Trinidad and Tobago",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Tunisia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Turkey",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Turkmenistan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Turks and Caicos Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Tuvalu",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Uganda",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Ukraine",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "United Arab Emirates",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "United Kingdom",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "United States",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "United States Minor Outlying Islands",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Uruguay",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Uzbekistan",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Vanuatu",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Venezuela",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Viet Nam",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Virgin Islands, British",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Virgin Islands, U.S.",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Wallis and Futuna",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Western Sahara",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Yemen",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Zambia",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
-            }
-        },
-        {
-            "country": "Zimbabwe",
-            "cuisine": {
-                "one": "A",
-                "two": "B",
-                "three": "C"
+            "Yakhni palaw": {
+                "description": "Yakhni Palaw is a flavorful Afghan rice dish that is made with meat broth, fragrant spices, and tender pieces of meat. Here is a recipe for making Yakhni Palaw:",
+                "Ingredients": "2 cups Basmati rice/2 lbs lamb or beef, cut into small pieces/1 large onion, sliced/4 garlic cloves, minced/1-inch ginger, grated/4-5 cups water or meat broth/2-3 bay leaves/1 tsp cumin seeds/1 tsp coriander seeds/4-5 green cardamom pods/4-5 cloves/Salt and black pepper, to taste/4 tbsp vegetable oil",
+                "preparation": "Rinse the rice in cold water and soak it in water for at least 30 minutes./Heat the oil in a large pot over medium-high heat. Add the onions and cook until softened, about 5 minutes./Add the garlic and ginger and cook for another 1-2 minutes./Add the meat and cook until browned on all sides, about 5-7 minutes./Add the cumin seeds, coriander seeds, bay leaves, green cardamom pods, cloves, salt, and pepper and stir well./Add the water or meat broth and bring the mixture to a boil./Reduce the heat to low, cover the pot, and let it simmer for about 45 minutes to 1 hour, or until the meat is tender./Strain the broth through a sieve and set it aside./In a separate pot, bring 4 cups of water to a boil. Add the rice and let it cook for 5-7 minutes, or until it is partially cooked./Drain the rice and spread it out on a plate./In the same pot, layer the partially cooked rice and the meat in alternating layers./Pour the broth over the rice and meat./Cover the pot and let it cook on low heat for about 20-30 minutes, or until the rice is fully cooked and the broth is absorbed./Serve hot and enjoy your delicious Yakhni Palaw!"
+
+            },
+
+            "Zamarod palaw": {
+                "description": "Zamarod palaw is a popular Afghan dish that consists of a flavorful spinach base and is typically served with tender pieces of lamb or chicken on top. ",
+                "Ingredients": "n",
+                "preparation": "n"
+
             }
         }
-    ]
+    },
+    {
+        "country": "Åland Islands",
+        "cuisine": {
+            "one": "12",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Albania",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Algeria",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "American Samoa",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "AndorrA",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Angola",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Anguilla",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Antarctica",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Argentina",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Armenia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Aruba",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Australia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Austria",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Azerbaijan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bahamas",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bahrain",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bangladesh",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Barbados",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Belarus",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Belgium",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Belize",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Benin",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bermuda",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bhutan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bolivia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Botswana",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Bouvet Island",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Brazil",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Brunei Darussalam",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+
+    },
+    {
+        "country": "Bulgaria",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Burkina Faso",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Burundi",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cambodia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cameroon",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Canada",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cape Verde",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cayman Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Central African Republic",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Chad",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Chile",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "China",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Christmas Island",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Colombia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Comoros",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Congo",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Congo, The Democratic Republic of the",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cook Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Costa Rica",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cote D\"Ivoire",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Croatia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cuba",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Cyprus",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Czech Republic",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Denmark",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Djibouti",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Dominica",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Dominican Republic",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Ecuador",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Egypt",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "El Salvador",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Equatorial Guinea",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Eritrea",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Estonia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Ethiopia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Falkland Islands (Malvinas)",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Faroe Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Fiji",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Finland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "France",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "French Guiana",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "French Polynesia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "French Southern Territories",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Gabon",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Gambia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Georgia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Germany",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Ghana",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Gibraltar",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Greece",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Greenland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Grenada",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guadeloupe",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guam",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guatemala",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guernsey",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guinea",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guinea-Bissau",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Guyana",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Haiti",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Heard Island and Mcdonald Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Honduras",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Hong Kong",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Hungary",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Iceland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "India",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Indonesia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Iran, Islamic Republic Of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Iraq",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Ireland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Isle of Man",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Israel",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Italy",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Jamaica",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Japan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Jersey",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Jordan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Kazakhstan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Kenya",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Kiribati",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Korea, Democratic People\"S Republic of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Korea, Republic of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Kuwait",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Kyrgyzstan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Lao People\"S Democratic Republic",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Latvia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Lebanon",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Lesotho",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Liberia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Liechtenstein",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Lithuania",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Luxembourg",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Macao",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Macedonia, The Former Yugoslav Republic of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Madagascar",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Malawi",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Malaysia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Maldives",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mali",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Malta",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Marshall Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Martinique",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mauritania",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mauritius",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mayotte",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mexico",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Moldova, Republic of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Monaco",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mongolia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Montserrat",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Morocco",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Mozambique",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Myanmar",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Namibia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Nauru",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Nepal",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Netherlands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Netherlands Antilles",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "New Caledonia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "New Zealand",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Nicaragua",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Niger",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Nigeria",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Niue",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Norfolk Island",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Norway",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Oman",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Pakistan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Palau",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Palestinian Territory, Occupied",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Panama",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Papua New Guinea",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Paraguay",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Peru",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Philippines",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Pitcairn",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Poland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Portugal",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Puerto Rico",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Qatar",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Reunion",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Romania",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Russian Federation",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "RWANDA",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Saint Helena",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Saint Lucia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Samoa",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "San Marino",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Saudi Arabia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Senegal",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Serbia and Montenegro",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Seychelles",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Sierra Leone",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Singapore",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Slovakia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Slovenia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Solomon Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Somalia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "South Africa",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Spain",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Sri Lanka",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Sudan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Suriname",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Swaziland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Sweden",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Switzerland",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Taiwan, Province of China",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Tajikistan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Tanzania, United Republic of",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Thailand",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Timor-Leste",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Togo",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Tokelau",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Tonga",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Tunisia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Turkey",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Turkmenistan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Tuvalu",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Uganda",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Ukraine",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "United Arab Emirates",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "United Kingdom",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "United States",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Uruguay",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Uzbekistan",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Vanuatu",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Venezuela",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Viet Nam",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Virgin Islands, British",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Wallis and Futuna",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Western Sahara",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Yemen",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Zambia",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    },
+    {
+        "country": "Zimbabwe",
+        "cuisine": {
+            "one": "A",
+            "two": "B",
+            "three": "C"
+        }
+    }
+]
